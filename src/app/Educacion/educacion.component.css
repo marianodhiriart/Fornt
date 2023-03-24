@@ -1,0 +1,9 @@
+#Educacion{
+    text-align: initial;
+        margin: 4rem;
+           margin-bottom: 2rem;
+    }
+.imgEducacionIzquierda{
+        justify-content: left;
+ border-style: solid;
+    }

@@ -1,0 +1,17 @@
+#Trabajos{
+    text-align: end;
+    margin: 5rem;
+    margin-right: 8rem;
+    margin-bottom: 2rem;
+    
+    }
+
+
+.imgTrabajosDerecha{
+    justify-content: end;
+display: flex;
+margin: 4rem;
+margin-top: 1rem;
+border-style: solid;
+
+}
